@@ -1,0 +1,14 @@
+C:\Users\Nguyen Viet Anh\source\repos\Lesson3\Execise2\obj\Debug\net6.0\Execise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Viet Anh\source\repos\Lesson3\Execise2\obj\Debug\net6.0\Execise2.AssemblyInfoInputs.cache
+C:\Users\Nguyen Viet Anh\source\repos\Lesson3\Execise2\obj\Debug\net6.0\Execise2.AssemblyInfo.cs
+C:\Users\Nguyen Viet Anh\source\repos\Lesson3\Execise2\obj\Debug\net6.0\Execise2.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Viet Anh\source\repos\Lesson3\Execise2\bin\Debug\net6.0\Execise2.exe
+C:\Users\Nguyen Viet Anh\source\repos\Lesson3\Execise2\bin\Debug\net6.0\Execise2.deps.json
+C:\Users\Nguyen Viet Anh\source\repos\Lesson3\Execise2\bin\Debug\net6.0\Execise2.runtimeconfig.json
+C:\Users\Nguyen Viet Anh\source\repos\Lesson3\Execise2\bin\Debug\net6.0\Execise2.dll
+C:\Users\Nguyen Viet Anh\source\repos\Lesson3\Execise2\bin\Debug\net6.0\Execise2.pdb
+C:\Users\Nguyen Viet Anh\source\repos\Lesson3\Execise2\obj\Debug\net6.0\Execise2.dll
+C:\Users\Nguyen Viet Anh\source\repos\Lesson3\Execise2\obj\Debug\net6.0\refint\Execise2.dll
+C:\Users\Nguyen Viet Anh\source\repos\Lesson3\Execise2\obj\Debug\net6.0\Execise2.pdb
+C:\Users\Nguyen Viet Anh\source\repos\Lesson3\Execise2\obj\Debug\net6.0\Execise2.genruntimeconfig.cache
+C:\Users\Nguyen Viet Anh\source\repos\Lesson3\Execise2\obj\Debug\net6.0\ref\Execise2.dll
