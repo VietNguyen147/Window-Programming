@@ -1,0 +1,15 @@
+C:\Users\pc\Downloads\C#Form\Lession5\Exercise3\bin\Debug\Exercise3.exe.config
+C:\Users\pc\Downloads\C#Form\Lession5\Exercise3\bin\Debug\Exercise3.exe
+C:\Users\pc\Downloads\C#Form\Lession5\Exercise3\bin\Debug\Exercise3.pdb
+C:\Users\pc\Downloads\C#Form\Lession5\Exercise3\obj\Debug\MainWindow.g.cs
+C:\Users\pc\Downloads\C#Form\Lession5\Exercise3\obj\Debug\App.g.cs
+C:\Users\pc\Downloads\C#Form\Lession5\Exercise3\obj\Debug\Exercise3_MarkupCompile.cache
+C:\Users\pc\Downloads\C#Form\Lession5\Exercise3\obj\Debug\Exercise3_MarkupCompile.lref
+C:\Users\pc\Downloads\C#Form\Lession5\Exercise3\obj\Debug\MainWindow.baml
+C:\Users\pc\Downloads\C#Form\Lession5\Exercise3\obj\Debug\Exercise3.g.resources
+C:\Users\pc\Downloads\C#Form\Lession5\Exercise3\obj\Debug\Exercise3.Properties.Resources.resources
+C:\Users\pc\Downloads\C#Form\Lession5\Exercise3\obj\Debug\Exercise3.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\C#Form\Lession5\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\C#Form\Lession5\Exercise3\obj\Debug\Exercise3.exe
+C:\Users\pc\Downloads\C#Form\Lession5\Exercise3\obj\Debug\Exercise3.pdb
+C:\Users\pc\Downloads\C#Form\Lession5\Exercise3\obj\Debug\Exercise3.csproj.AssemblyReference.cache
